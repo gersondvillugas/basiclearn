@@ -1,0 +1,20 @@
+.new{
+    border-style: solid;
+    background-color: red
+  }
+  .new1{
+      background-color: blue
+  }
+  .img{
+      width: 30%;
+      
+  }
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  h1 {
+    text-align: center;
+    color: red;
+  }
